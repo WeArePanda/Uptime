@@ -7,6 +7,8 @@ sites:
     url: https://wearepanda.co.uk/
   - name: Bunkr
     url: https://bunkr.co.uk/
+  - name: Test Site
+    url: http://lpcic.co.uk/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
