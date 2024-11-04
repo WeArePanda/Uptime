@@ -17,8 +17,8 @@ status-website:
   baseUrl: /Uptime
   logoUrl: https://wearepanda.co.uk/wp-content/uploads/2024/05/wap-panda-logo-twotone2.png
   name: We are Panda Status
-  introTitle: "Website Uptime powered by GitHub."
-  introMessage: Using real-time data
+  introTitle: "Website downtime monitor"
+  introMessage: Using real-time data with Slck notifications
   navbar:
     - title: Status
       href: /
