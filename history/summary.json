@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4625,
-    "timeDay": 4625,
-    "timeWeek": 4625,
-    "timeMonth": 4625,
-    "timeYear": 4625,
+    "time": 3273,
+    "timeDay": 3273,
+    "timeWeek": 3273,
+    "timeMonth": 3273,
+    "timeYear": 3273,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 688,
-    "timeDay": 688,
-    "timeWeek": 688,
-    "timeMonth": 688,
-    "timeYear": 688,
+    "time": 706,
+    "timeDay": 706,
+    "timeWeek": 706,
+    "timeMonth": 706,
+    "timeYear": 706,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lpcic.co.uk.ico",
     "slug": "test-site",
     "status": "down",
-    "uptime": "3.30%",
-    "uptimeDay": "3.30%",
-    "uptimeWeek": "3.30%",
-    "uptimeMonth": "3.30%",
-    "uptimeYear": "3.30%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-04": 0
+      "2024-11-04": 70
     }
   }
 ]
