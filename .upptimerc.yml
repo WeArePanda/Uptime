@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://wearepanda.co.uk/wp-content/uploads/2024/05/wap-panda-logo-twotone2.png
   name: We are Panda Status
   introTitle: "Website downtime monitor"
-  introMessage: Using real-time data with Slck notifications
+  introMessage: Using real-time data with Slack notifications
   navbar:
     - title: Status
       href: /
