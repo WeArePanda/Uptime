@@ -4,19 +4,19 @@
     "url": "https://wearepanda.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/wearepanda.co.uk.ico",
     "slug": "we-are-panda",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1162,
-    "timeDay": 642,
-    "timeWeek": 818,
-    "timeMonth": 1162,
-    "timeYear": 1162,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 1159,
+    "timeDay": 791,
+    "timeWeek": 842,
+    "timeMonth": 1159,
+    "timeYear": 1159,
     "dailyMinutesDown": {
-      "2024-11-15": 0
+      "2024-11-15": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://bunkr.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/bunkr.co.uk.ico",
     "slug": "bunkr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 909,
-    "timeDay": 657,
-    "timeWeek": 946,
-    "timeMonth": 909,
-    "timeYear": 909,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 924,
+    "timeDay": 854,
+    "timeWeek": 974,
+    "timeMonth": 924,
+    "timeYear": 924,
     "dailyMinutesDown": {
-      "2024-11-15": 0
+      "2024-11-15": 13
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-15": 1303,
+      "2024-11-15": 1316,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
